@@ -2,6 +2,8 @@
 
 A classic Snake Game implemented in Python using the Pygame library.
 
+![snake]{snake.gif}
+
 ## Description
 
 This Snake Game allows players to control a snake on a grid. The objective is to eat food items that randomly appear on the screen while avoiding collisions with the walls or the snake's own body. As the snake consumes food, it grows longer, making the game more challenging.
