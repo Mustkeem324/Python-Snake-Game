@@ -2,7 +2,7 @@
 
 A classic Snake Game implemented in Python using the Pygame library.
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=sdNDG_Z2RA8)
+[![Watch the video](snake.png)](https://www.youtube.com/watch?v=sdNDG_Z2RA8)
 
 ## Description
 
