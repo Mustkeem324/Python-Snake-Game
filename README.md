@@ -2,7 +2,7 @@
 
 A classic Snake Game implemented in Python using the Pygame library.
 
-![snake](snake.gif)
+<img src="snake.gif" alt="Snake GIF" />
 
 ## Description
 
